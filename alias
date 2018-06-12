@@ -1,0 +1,32 @@
+# Laravel
+alias laravel="composer create-project --prefer-dist laravel/laravel"
+
+alias artisan="php artisan"
+alias migrate="php artisan migrate"
+alias fresh="php artisan migrate:fresh"
+alias serve="php artisan serve"
+alias dump="php artisan dump"
+
+# Paket Oluşturma
+alias g:c="php artisan generate:controller"
+alias g:m="php artisan generate:model"
+alias g:v="php artisan generate:view"
+alias g:mig="php artisan generate:migration"
+alias g:r="php artisan generate:resource"
+alias g:f="php artisan generate:form"
+
+# Git
+alias ga="git add ."
+alias gc="git commit -m"
+alias gpl="git push"
+alias gps="git pull"
+alias gs="git status"
+alias gl="git log"
+
+#Lampp
+alias lampstart="sudo /opt/lampp/lampp start"
+alias lampstop="sudo /opt/lampp/lampp stop"
+alias lamprestart="sudo /opt/lampp/lampp restart"
+
+#Lavicat
+alias navicat="cd Masaüstü/navicat120_premium_en_x64/ && ./start_navicat"
