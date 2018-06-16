@@ -1,4 +1,4 @@
-# Laravel
+# Laravel install
 alias laravel="composer create-project --prefer-dist laravel/laravel"
 
 alias artisan="php artisan"
@@ -18,8 +18,8 @@ alias g:f="php artisan generate:form"
 # Git
 alias ga="git add ."
 alias gc="git commit -m"
-alias gpl="git push"
-alias gps="git pull"
+alias gps="git push"
+alias gpl="git pull"
 alias gs="git status"
 alias gl="git log"
 
